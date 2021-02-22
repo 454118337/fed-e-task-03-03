@@ -1,5 +1,5 @@
 <template>
-    <div class="home-page">
+    <div class="home-page" data-test="测试用">
 
         <div class="banner">
             <div class="container">
